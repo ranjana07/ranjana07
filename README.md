@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://ranjanagond.io)
 <h1 align="center">Hi 👋, I'm Ranjana Gond</h1>
 <h3 align="center">A passionate web developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1718431858~exp=1718432458~hmac=e8bea46d8ac55a19a443e7259404b3c17e528aece4ccf5b3b4404859bad872b7")
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1718431858~exp=1718432458~hmac=e8bea46d8ac55a19a443e7259404b3c17e528aece4ccf5b3b4404859bad872b7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjana07&label=Profile%20views&color=0e75b6&style=flat" alt="ranjana07" /> </p>
 
